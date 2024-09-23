@@ -1,6 +1,7 @@
 # CryptoCurrency Price Tracker
 
 Este é um projeto de uma aplicação web desenvolvida com **React** e **TypeScript** que consulta dados de moedas digitais, como Bitcoin, utilizando a API [CoinCap](https://coincap.io/).
+- [DevCurrency](https://currency-dev.vercel.app/)
 
 ## Funcionalidades
 
